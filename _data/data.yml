@@ -10,36 +10,36 @@ sidebar:
     # Profile information
     name: Daniel Lazaro
     tagline: Full Stack Developer
-    avatar: Kbap amigo.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Kbap amigo.odt #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: danlazesc@alu.edu.gva.es
     phone: 695928804
-    timezone: Castellon/Altura # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: 'https://jaunpere.github.io/Practica5/' # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
+    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: No exist
+    xing: No exist
     github: Jaunpere
-    telegram: No exists
+    telegram: No exist
     gitlab:
     bitbucket:
-    twitter: No exists
+    twitter: No exist
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: assets/Mia_carpeta/Word_normal.odt # Comentario
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
       info:
-        - idiom: Castellano
+        - idiom: English
           level: Native
 
-        - idiom: Valenciano
+        - idiom: French
           level: Professional
 
         - idiom: Spanish
@@ -48,10 +48,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Gym
+        - item: Climbing
           link:
 
-        - item: Football
+        - item: Snowboarding
           link:
 
         - item: Cooking
