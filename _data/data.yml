@@ -17,7 +17,7 @@ sidebar:
     phone: 695928804
     timezone: Castellon/Altura # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website: https://jaunpere.github.io/Practica5/ # Include the full website URL, including "http://" or "https://".
     linkedin: alandoe
     xing: alandoe
     github: Jaunpere
@@ -36,10 +36,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Castellano
           level: Native
 
-        - idiom: French
+        - idiom: Valenciano
           level: Professional
 
         - idiom: Spanish
@@ -48,10 +48,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Gym
           link:
 
-        - item: Snowboarding
+        - item: Football
           link:
 
         - item: Cooking
