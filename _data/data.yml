@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: danlazesc@alu.edu.gva.es
     phone: 695928804
-    timezone: Castellano/Altura # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: Castellon/Altura # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: alandoe
